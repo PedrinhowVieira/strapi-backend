@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_page_images",
+  "info": {
+    "name": "image",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string",
+      "required": true
+    },
+    "alternativeText": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
